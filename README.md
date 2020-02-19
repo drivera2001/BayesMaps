@@ -1,2 +1,2 @@
-# phoenix
-"Modelling ancient areas for date palms (Phoenix species, Arecaceae): Bayesian analysis of biological and cultural evidence"
+# Bayes Maps
+"Modelling ancient areas for crop plants: Bayesian analysis of biological and cultural evidence"
